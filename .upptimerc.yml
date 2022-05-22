@@ -20,14 +20,17 @@ status-website:
   #cname: esxbrasilrp.github.io
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  name: Status
   introTitle: "**Upptime** é o monitor de tempo de atividade e a página de status de código aberto, totalmente desenvolvido pelo GitHub."
   introMessage:
   navbar:
-    - title: Status
+    - title: Home
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: Status
+      href: /upptime
+    - title: CREATOR MAP
+      href: /creator
+
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
