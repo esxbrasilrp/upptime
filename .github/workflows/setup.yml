@@ -60,5 +60,5 @@ jobs:
         with:
           github_token: ${{ secrets.GH_PAT }}
           publish_dir: "site/status-page/__sapper__/export/"
-          user_name: "ESXBrasil Bot"
+          user_name: "esxbrasilrp"
           user_email: "esxbrasil2022@gmail.com"
