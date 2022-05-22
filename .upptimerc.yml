@@ -89,6 +89,3 @@ i18n:
   durationMin: $DURATION minutos
   incidentCompleted: Concluído
   incidentScheduled: Agendado
-
-status-website:
-  theme: dark
