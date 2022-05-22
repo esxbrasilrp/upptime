@@ -30,6 +30,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/esxbrasilrp/upptime/master/assets/upptime-icon.svg
   favicon: https://raw.githubusercontent.com/esxbrasilrp/upptime/master/assets/upptime-icon.svg
   faviconSvg: https://raw.githubusercontent.com/esxbrasilrp/upptime/master/assets/upptime-icon.svg
+  theme: dark
   name: Status
   introTitle: "**Status** é o monitor de tempo de atividade e a página de status."
   introMessage:
