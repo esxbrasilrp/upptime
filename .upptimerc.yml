@@ -19,9 +19,11 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   #cname: esxbrasilrp.github.io
   baseUrl: /upptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://raw.githubusercontent.com/esxbrasilrp/upptime/master/assets/upptime-icon.svg
+  favicon: https://raw.githubusercontent.com/esxbrasilrp/upptime/master/assets/upptime-icon.svg
+  faviconSvg: https://raw.githubusercontent.com/esxbrasilrp/upptime/master/assets/upptime-icon.svg
   name: Status
-  introTitle: "**Upptime** é o monitor de tempo de atividade e a página de status de código aberto, totalmente desenvolvido pelo GitHub."
+  introTitle: "**Status** é o monitor de tempo de atividade e a página de status."
   introMessage:
   navbar:
     - title: Home
@@ -65,7 +67,7 @@ i18n:
   ms: ms
   loading: Carregando
   navGitHub: GitHub
-  footer: Esta página é [código aberto]($REPO), desenvolvida por [Upptime](https://upptime.js.org)
+  footer: © 2022 ESXBrasilRP, Inc.
   rateLimitExceededTitle: Limite de taxa excedido
   rateLimitExceededIntro: Você excedeu o número de solicitações que pode fazer em uma hora, então terá que esperar antes de acessar este site novamente. Como alternativa, você pode adicionar um token de acesso pessoal do GitHub para continuar usando este site.
   rateLimitExceededWhatDoesErrorMean: O que esse erro significa?
