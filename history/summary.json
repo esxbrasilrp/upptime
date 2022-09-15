@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 108,
     "timeDay": 83,
-    "timeWeek": 97,
+    "timeWeek": 94,
     "timeMonth": 113,
     "timeYear": 108,
     "dailyMinutesDown": {}
@@ -76,7 +76,7 @@
     "url": "https://docs.fivem.net",
     "icon": "https://favicons.githubusercontent.com/docs.fivem.net",
     "slug": "docs-five-m",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
