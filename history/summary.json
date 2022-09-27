@@ -49,7 +49,7 @@
     "time": 341,
     "timeDay": 238,
     "timeWeek": 581,
-    "timeMonth": 512,
+    "timeMonth": 515,
     "timeYear": 341,
     "dailyMinutesDown": {}
   },
@@ -76,7 +76,7 @@
     "url": "https://docs.fivem.net",
     "icon": "https://favicons.githubusercontent.com/docs.fivem.net",
     "slug": "docs-five-m",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -84,7 +84,7 @@
     "uptimeYear": "100.00%",
     "time": 790,
     "timeDay": 123,
-    "timeWeek": 153,
+    "timeWeek": 169,
     "timeMonth": 645,
     "timeYear": 790,
     "dailyMinutesDown": {}
