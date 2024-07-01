@@ -7,6 +7,8 @@ sites:
     url: https://fivem.net
   - name: ESXBrasilRP
     url: https://esxbrasilrp.github.io
+  - name: NexaRP
+    url: https://nexarp.cloud
   - name: RenildoMarcio
     url: https://renildomarcio.com.br
   - name: Forum FiveM
@@ -15,13 +17,13 @@ sites:
     url: https://servers.fivem.net
   - name: Docs FiveM
     url: https://docs.fivem.net
-  - name: Google DNS 1
+  - name: RenildoMarcio DNS 1
     check: "tcp-ping"
-    url: 8.8.4.4
+    url: ns1.renildomarcio.com.br
     port: 53
-  - name: Google DNS 2
+  - name: RenildoMarcio DNS 2
     check: "tcp-ping"
-    url: 8.8.8.8
+    url: ns2.renildomarcio.com.br
     port: 53
 
 status-website:
