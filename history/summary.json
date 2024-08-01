@@ -13,7 +13,7 @@
     "time": 138,
     "timeDay": 104,
     "timeWeek": 115,
-    "timeMonth": 131,
+    "timeMonth": 110,
     "timeYear": 153,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 89,
     "timeDay": 49,
     "timeWeek": 86,
-    "timeMonth": 101,
+    "timeMonth": 97,
     "timeYear": 86,
     "dailyMinutesDown": {}
   },
@@ -40,7 +40,7 @@
     "url": "https://nexarp.cloud",
     "icon": "https://icons.duckduckgo.com/ip3/nexarp.cloud.ico",
     "slug": "nexa-rp",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -49,7 +49,7 @@
     "time": 5558,
     "timeDay": 4138,
     "timeWeek": 4191,
-    "timeMonth": 5558,
+    "timeMonth": 5398,
     "timeYear": 5558,
     "dailyMinutesDown": {}
   },
@@ -58,17 +58,17 @@
     "url": "https://renildomarcio.com.br",
     "icon": "https://icons.duckduckgo.com/ip3/renildomarcio.com.br.ico",
     "slug": "renildo-marcio",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 971,
+    "time": 972,
     "timeDay": 454,
     "timeWeek": 817,
-    "timeMonth": 1030,
-    "timeYear": 1114,
+    "timeMonth": 1013,
+    "timeYear": 1116,
     "dailyMinutesDown": {}
   },
   {
@@ -84,8 +84,8 @@
     "uptimeYear": "100.00%",
     "time": 680,
     "timeDay": 669,
-    "timeWeek": 651,
-    "timeMonth": 622,
+    "timeWeek": 652,
+    "timeMonth": 627,
     "timeYear": 584,
     "dailyMinutesDown": {}
   },
@@ -121,7 +121,7 @@
     "time": 474,
     "timeDay": 158,
     "timeWeek": 296,
-    "timeMonth": 335,
+    "timeMonth": 341,
     "timeYear": 489,
     "dailyMinutesDown": {}
   },
@@ -157,7 +157,7 @@
     "time": 102,
     "timeDay": 123,
     "timeWeek": 140,
-    "timeMonth": 102,
+    "timeMonth": 103,
     "timeYear": 102,
     "dailyMinutesDown": {}
   }
