@@ -148,17 +148,17 @@
     "url": "ns2.renildomarcio.com.br",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "renildo-marcio-dns-2",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 140,
-    "timeDay": 169,
-    "timeWeek": 152,
+    "time": 141,
+    "timeDay": 164,
+    "timeWeek": 153,
     "timeMonth": 155,
-    "timeYear": 140,
+    "timeYear": 141,
     "dailyMinutesDown": {}
   }
 ]
