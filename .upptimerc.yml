@@ -17,6 +17,22 @@ sites:
     url: https://servers.fivem.net
   - name: Docs FiveM
     url: https://docs.fivem.net
+  - name: RenildoMarcio DNS 1
+    check: "tcp-ping"
+    url: ns1.renildomarcio.com.br
+    port: 53
+  - name: RenildoMarcio DNS 2
+    check: "tcp-ping"
+    url: ns2.renildomarcio.com.br
+    port: 53
+  - name: RenildoMarcio DNS 3
+    check: "tcp-ping"
+    url: ns3.renildomarcio.com.br
+    port: 53
+  - name: RenildoMarcio DNS 4
+    check: "tcp-ping"
+    url: ns4.renildomarcio.com.br
+    port: 53
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
