@@ -7,8 +7,8 @@ sites:
     url: https://fivem.net
   - name: ESXBrasilRP
     url: https://esxbrasilrp.github.io
-  - name: NexaRP
-    url: https://nexarp.cloud
+  - name: CyberMP
+    url: https://cybermp.com.br
   - name: RenildoMarcio
     url: https://renildomarcio.com.br
   - name: Forum FiveM
@@ -25,7 +25,15 @@ sites:
     check: "tcp-ping"
     url: ns2.renildomarcio.com.br
     port: 53
-
+  - name: RenildoMarcio DNS 3
+    check: "tcp-ping"
+    url: ns3.renildomarcio.com.br
+    port: 53
+  - name: RenildoMarcio DNS 4
+    check: "tcp-ping"
+    url: ns4.renildomarcio.com.br
+    port: 53
+    
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
