@@ -19,19 +19,19 @@ sites:
     url: https://docs.fivem.net
   - name: RenildoMarcio DNS 1
     check: "tcp-ping"
-    hostname: ns1.renildomarcio.com.br
+    url: ns1.renildomarcio.com.br
     port: 53
   - name: RenildoMarcio DNS 2
     check: "tcp-ping"
-    hostname: ns2.renildomarcio.com.br
+    url: ns2.renildomarcio.com.br
     port: 53
   - name: RenildoMarcio DNS 3
     check: "tcp-ping"
-    hostname: ns3.renildomarcio.com.br
+    url: ns3.renildomarcio.com.br
     port: 53
   - name: RenildoMarcio DNS 4
     check: "tcp-ping"
-    hostname: ns4.renildomarcio.com.br
+    url: ns4.renildomarcio.com.br
     port: 53
 
 status-website:
