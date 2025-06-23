@@ -7,8 +7,6 @@ sites:
     url: https://fivem.net
   - name: ESXBrasilRP
     url: https://esxbrasilrp.github.io
-  - name: CyberMP
-    url: https://cybermp.com.br
   - name: RenildoMarcio
     url: https://renildomarcio.com.br
   - name: Forum FiveM
@@ -17,25 +15,18 @@ sites:
     url: https://servers.fivem.net
   - name: Docs FiveM
     url: https://docs.fivem.net
-  - name: RenildoMarcio DNS 1
+  - name: Google DNS 1
     check: "tcp-ping"
-    url: ns1.renildomarcio.com.br
+    url: 8.8.4.4
     port: 53
-  - name: RenildoMarcio DNS 2
+  - name: Google DNS 2
     check: "tcp-ping"
-    url: ns2.renildomarcio.com.br
-    port: 53
-  - name: RenildoMarcio DNS 3
-    check: "tcp-ping"
-    url: ns3.renildomarcio.com.br
-    port: 53
-  - name: RenildoMarcio DNS 4
-    check: "tcp-ping"
-    url: ns4.renildomarcio.com.br
+    url: 8.8.8.8
     port: 53
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
+  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   #cname: esxbrasilrp.github.io
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/esxbrasilrp/upptime/master/assets/upptime-icon.svg
@@ -44,8 +35,7 @@ status-website:
   theme: night
   name: Status
   introTitle: "**Status** é o monitor de tempo de atividade e a página de status."
-  introMessage: |
-    Aqui você pode acompanhar o status dos nossos serviços em tempo real.
+  introMessage:
   navbar:
     - title: Home
       href: /
@@ -53,6 +43,7 @@ status-website:
       href: /upptime
     - title: CREATOR MAP
       href: /creator
+
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
@@ -80,7 +71,7 @@ i18n:
   overallUptimeTitle: Tempo de atividade geral
   averageResponseTime: "Tempo médio de resposta: $TIMEms"
   averageResponseTimeTitle: Resposta média
-  sevenDayResponseTime: tempo de resposta de 7 dias
+  sevelDayResponseTime: tempo de resposta de 7 dias
   responseTimeMs: Tempo de resposta (ms)
   up: Up
   down: Down
