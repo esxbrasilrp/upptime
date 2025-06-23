@@ -19,24 +19,23 @@ sites:
     url: https://docs.fivem.net
   - name: RenildoMarcio DNS 1
     check: "tcp-ping"
-    url: ns1.renildomarcio.com.br
+    hostname: ns1.renildomarcio.com.br
     port: 53
   - name: RenildoMarcio DNS 2
     check: "tcp-ping"
-    url: ns2.renildomarcio.com.br
+    hostname: ns2.renildomarcio.com.br
     port: 53
   - name: RenildoMarcio DNS 3
     check: "tcp-ping"
-    url: ns3.renildomarcio.com.br
+    hostname: ns3.renildomarcio.com.br
     port: 53
   - name: RenildoMarcio DNS 4
     check: "tcp-ping"
-    url: ns4.renildomarcio.com.br
+    hostname: ns4.renildomarcio.com.br
     port: 53
-    
+
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   #cname: esxbrasilrp.github.io
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/esxbrasilrp/upptime/master/assets/upptime-icon.svg
@@ -45,7 +44,8 @@ status-website:
   theme: night
   name: Status
   introTitle: "**Status** é o monitor de tempo de atividade e a página de status."
-  introMessage:
+  introMessage: |
+    Aqui você pode acompanhar o status dos nossos serviços em tempo real.
   navbar:
     - title: Home
       href: /
@@ -53,7 +53,6 @@ status-website:
       href: /upptime
     - title: CREATOR MAP
       href: /creator
-
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
@@ -81,7 +80,7 @@ i18n:
   overallUptimeTitle: Tempo de atividade geral
   averageResponseTime: "Tempo médio de resposta: $TIMEms"
   averageResponseTimeTitle: Resposta média
-  sevelDayResponseTime: tempo de resposta de 7 dias
+  sevenDayResponseTime: tempo de resposta de 7 dias
   responseTimeMs: Tempo de resposta (ms)
   up: Up
   down: Down
