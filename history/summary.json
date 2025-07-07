@@ -40,7 +40,7 @@
     "url": "https://renildomarcio.com.br",
     "icon": "https://icons.duckduckgo.com/ip3/renildomarcio.com.br.ico",
     "slug": "renildo-marcio",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -48,7 +48,7 @@
     "uptimeYear": "100.00%",
     "time": 1342,
     "timeDay": 793,
-    "timeWeek": 1100,
+    "timeWeek": 1098,
     "timeMonth": 1314,
     "timeYear": 1317,
     "dailyMinutesDown": {}
